@@ -1,25 +1,32 @@
-ol{
-    margin-left: -40px;
-    margin-top: -20px;
-    list-style-position: inside;
+h2{
+    font-weight: bold;
 }
 
-p{
+.color-title{
+    font-weight: normal;
+}
+
+#red{
     color: red;
 }
 
-.note{
-    font-size: 20px;
-}
-
-#id-selector-demo{
-    color: green;
-}
-
-li[value="4"]{
+#blue{
     color: blue;
 }
 
-*{
-    text-align: center;
+#yellow{
+    color: yellow;
+}
+
+#green{
+    color: green;
+}
+
+#orange{
+    color: orange;
+}
+
+img{
+    width: 200px;
+    height: 200px;
 }
